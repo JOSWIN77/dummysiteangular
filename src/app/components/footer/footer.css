@@ -1,0 +1,75 @@
+.footer-dark {
+    background-color: #020617;
+    color: #e5e7eb;
+    padding-top: 60px;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.footer-brand {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #38bdf8;
+    display: block;
+    margin-bottom: 15px;
+    text-decoration: none;
+}
+
+.brand-accent {
+    color: #e5e7eb;
+}
+
+
+.footer-text {
+    font-size: 0.9rem;
+    color: #9ca3af;
+}
+
+
+.footer-title {
+    font-size: 0.95rem;
+    font-weight: 600;
+    margin-bottom: 15px;
+    color: #e5e7eb;
+}
+
+
+.footer-link {
+    display: block;
+    font-size: 0.9rem;
+    color: #9ca3af;
+    margin-bottom: 8px;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: #e5e7eb;
+}
+
+.social-links a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    margin-right: 8px;
+    border-radius: 6px;
+    background-color: #1e293b;
+    color: #e5e7eb;
+    font-size: 0.9rem;
+}
+
+
+.footer-btn {
+    background-color: #38bdf8;
+    color: #020617;
+    font-weight: 600;
+    border: none;
+}
+
+.footer-bottom {
+    margin-top: 40px;
+    padding: 20px 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+    font-size: 0.85rem;
+    color: #9ca3af;
+}

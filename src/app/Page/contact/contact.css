@@ -1,0 +1,10 @@
+.contact-page {
+    background-image: url("https://images.unsplash.com/photo-1521737604893-d14cc237f11d");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 80px 0;
+}
+#op{
+ color: white;
+}

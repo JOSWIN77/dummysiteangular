@@ -1,0 +1,74 @@
+
+.hero-section-light {
+    background-color: #f8fafc;
+    padding: 90px 0;
+}
+
+.hero-title-light {
+    font-size: 3rem;
+    font-weight: 700;
+    color: #020617;
+}
+
+.hero-subtitle-light {
+    color: #475569;
+    max-width: 600px;
+}
+
+.hero-points span {
+    display: block;
+    color: #334155;
+    margin-bottom: 6px;
+}
+
+.hero-info-box {
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    padding: 25px;
+    border-radius: 8px;
+}
+
+.image-showcase {
+    padding: 60px 0;
+    background: #ffffff;
+}
+
+.showcase-img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.features-section-light {
+    background: #f9fafb;
+    padding: 80px 0;
+}
+
+.feature-card-light {
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    padding: 25px;
+    border-radius: 8px;
+}
+
+.info-section {
+    background: #ffffff;
+    padding: 70px 0;
+}
+
+.info-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.info-list li {
+    margin-bottom: 8px;
+    color: #334155;
+}
+
+.hero-btn-primary {
+    background: #38bdf8;
+    color: #020617;
+    padding: 12px 24px;
+    border-radius: 6px;
+    text-decoration: none;
+}
